@@ -62,7 +62,7 @@ The complete source code of each question is in its own folder:
 5 6 7 8 
 9 10 11 12 
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
@@ -70,7 +70,7 @@ The complete source code of each question is in its own folder:
 2 5 8 
 3 6 9 
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
@@ -78,7 +78,7 @@ Row 1 sum: 6
 Row 2 sum: 15
 Row 3 sum: 24
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. A matrix was filled and printed, its transpose was created, and the sum of each row was calculated using two-dimensional arrays and nested loops.

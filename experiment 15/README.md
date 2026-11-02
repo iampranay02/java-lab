@@ -65,19 +65,19 @@ The complete source code of each question is in its own folder:
 Hello World
 Length: 11
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 1,2,3,4,5
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 Hello Java
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. A `StringBuilder` was used to append text, remove the last character and insert text at a given position.

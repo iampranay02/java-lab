@@ -62,13 +62,13 @@ The complete source code of each question is in its own folder:
 ```
 Vowels: 3
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 Count of g: 2
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
@@ -78,7 +78,7 @@ Count of g: 2
 3: l
 4: o
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. `charAt` was used to count the vowels and a given letter in a word, and to print each letter with its position.

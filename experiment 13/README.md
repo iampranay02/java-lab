@@ -74,19 +74,19 @@ Length: 11
 Position of g: 3
 Upper case: PROGRAMMING
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 Reversed: avaJ
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 racecar is a palindrome
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 **Q4**
 ```
@@ -97,7 +97,7 @@ b
 bc
 c
 ```
-![Q4 Output](Q4/output.png)
+![Q4 Output](Q4/Q4-output.png)
 
 ## 9. Result
 All four programs were written and executed successfully in Visual Studio Code. `String` methods were used to find the length, position and upper case of a word, a word was reversed, a palindrome was checked and all substrings of a word were printed.

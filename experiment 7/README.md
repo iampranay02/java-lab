@@ -62,19 +62,19 @@ The complete source code of each question is in its own folder:
 ```
 Steps: 10
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 Steps: 100
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 Halving steps: 10
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. The steps of a single loop, nested loops and a halving loop were counted, and their time complexities O(n), O(n^2) and O(log n) were written as comments.

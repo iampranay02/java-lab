@@ -62,19 +62,19 @@ The complete source code of each question is in its own folder:
 ```
 Sorted: [1, 3, 5, 7]
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 Sorted: [3, 6, 9, 14, 21]
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 Shifts: 15
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. Arrays were sorted using insertion sort, and the number of shifts for a reverse-sorted array was counted.

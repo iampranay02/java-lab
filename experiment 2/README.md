@@ -71,25 +71,25 @@ The complete source code of each question is in its own folder:
 ```
 27 is odd
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 Grade: B
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 Leap year
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 **Q4**
 ```
 Factorial of 5 is 120
 ```
-![Q4 Output](Q4/output.png)
+![Q4 Output](Q4/Q4-output.png)
 
 ## 9. Result
 All four programs were written and executed successfully in Visual Studio Code. Decisions were made with `if-else` and an else-if ladder, and a `for` loop was used to calculate a factorial.

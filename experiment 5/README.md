@@ -65,20 +65,20 @@ Index 0: 3
 Index 1: 4
 Index 2: 5
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
 Sum: 118
 Largest: 45
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 Count greater than 10: 2
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. Arrays were created and traversed with a loop to print elements with their index, find the sum and largest value, and count values greater than 10.

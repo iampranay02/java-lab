@@ -63,7 +63,7 @@ The complete source code of each question is in its own folder:
 ```
 Wednesday
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
@@ -71,14 +71,14 @@ Wednesday
 Size: 4
 Item at index 2: 30
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
 [10, 25, 30]
 Size: 3
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 ## 9. Result
 All three programs were written and executed successfully in Visual Studio Code. A `switch` statement was used to print a day name, and an `ArrayList` was used to add, read, change and remove items.

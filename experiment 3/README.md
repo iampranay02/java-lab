@@ -72,7 +72,7 @@ The complete source code of each question is in its own folder:
 ****
 ****
 ```
-![Q1 Output](Q1/output.png)
+![Q1 Output](Q1/Q1-output.png)
 
 **Q2**
 ```
@@ -81,7 +81,7 @@ The complete source code of each question is in its own folder:
 ***
 ****
 ```
-![Q2 Output](Q2/output.png)
+![Q2 Output](Q2/Q2-output.png)
 
 **Q3**
 ```
@@ -90,7 +90,7 @@ The complete source code of each question is in its own folder:
 1 2 3 
 1 2 3 4 
 ```
-![Q3 Output](Q3/output.png)
+![Q3 Output](Q3/Q3-output.png)
 
 **Q4**
 ```
@@ -99,7 +99,7 @@ The complete source code of each question is in its own folder:
 **
 *
 ```
-![Q4 Output](Q4/output.png)
+![Q4 Output](Q4/Q4-output.png)
 
 ## 9. Result
 All four programs were written and executed successfully in Visual Studio Code. Nested loops were used to print a square, a right triangle, a number triangle and an upside-down triangle.
